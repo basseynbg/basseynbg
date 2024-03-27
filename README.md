@@ -78,11 +78,6 @@ Explain how to use your project. Include code examples, screenshots, or GIFs if 
 ## Contributing
 Guidelines for contributors. Explain how others can contribute, report issues, or submit pull requests. Mention any code of conduct or community guidelines.
 
-## License
-Specify the license under which your project is released (e.g., MIT, Apache). Include a link to the full license file.
-
-##  Certainly! Let's create an accurate and informative section for your GitHub profile README:
-
 ---
 
 ## License
@@ -116,6 +111,4 @@ Feel free to reach out for questions, collaboration, or just a friendly chat:
 
 Let's connect and build amazing things together! 🌟🚀
 
----
-
-Customize this section with your actual contact information and acknowledgments. Happy coding! 👩‍💻
+ 
